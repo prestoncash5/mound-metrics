@@ -1,0 +1,25 @@
+Copyright (c) 2025 Preston Cash
+All rights reserved.
+
+This software, its source code, design, and functionality are the 
+exclusive intellectual property of Preston Cash and are protected 
+by copyright law.
+
+NO part of this software may be:
+- Copied, reproduced, or duplicated in any form
+- Modified, adapted, or built upon
+- Distributed, published, or shared publicly
+- Sublicensed or transferred to any third party
+- Used commercially or incorporated into any commercial product
+- Reverse engineered or decompiled
+
+Any unauthorized use, reproduction, or distribution of this 
+software, in whole or in part, may result in civil and criminal 
+penalties and will be prosecuted to the maximum extent possible 
+under the law.
+
+This software is made available for personal viewing only.
+
+For licensing inquiries contact: prestonrcash@gmail.com
+
+Mound Metrics™ is a trademark of Preston Cash. All rights reserved.
